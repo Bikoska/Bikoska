@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-I am a software developer from Macedonia 
-- 🔭 Working on multiple frontend and backend projects using React, Java, databases
-- 🌱 Learning design patterns in depth
+I am a software developer, curious about crypto world   
+- 🔭 Working on multiple frontend and backend projects using React, Java, databases ...
+- 🌱 Learning new things every day
 
  
 <br>
