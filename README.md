@@ -24,8 +24,8 @@ I am a software developer, curious about crypto world
 🛠  Tech Stack
 - ⚙️   Windows
 - 🌐   HTML5, CSS, JavaScript, React, Redux, RestAPI, Java 
-- 🛢    DB2 Firebase
-- ⚙️   SVN Git GitHub
+- 🛢    DB2, Firebase
+- ⚙️   SVN, Git, GitHub
 - 🔧   Visual Studio Code, Eclipse
  
 <br>
