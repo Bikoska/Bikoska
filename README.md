@@ -17,12 +17,21 @@ Here are some ideas to get you started:
 
 
 I am a software developer, curious about crypto world   
-- 🔭 Working on multiple frontend and backend projects using React, Java, databases ...
-- 🌱 Learning new things every day
+- 🔭 I’m currently working as a software developer in Ministry of interior
+- 🌱 Learning more about cryptocurrencies, AI and new technologies for developing modern software solutions
+- ⚡ Fun fact: I thought I would be mathematician or painter when I grow up (still doing some artworks for fun now and then)
 
+🛠  Tech Stack
+- ⚙️   Windows
+- 🌐   HTML5, CSS, JavaScript, React, Redux, RestAPI, Java 
+- 🛢    DB2 Firebase
+- ⚙️   SVN Git GitHub
+- 🔧   Visual Studio Code, Eclipse
  
 <br>
 <h5>📫 How to reach me:</h5>
 <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/kristina-bikoska-janeva-61875639)
+
+<h4>I'm always on the lookout for new challenges and opportunities to grow as a developer, let's connect!</h4>
 
 
