@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am a software developer, curious about crypto world   
 - 🔭 I’m currently working as a software developer in Ministry of interior
 - 🌱 Learning more about cryptocurrencies, AI and new technologies for developing modern software solutions
-- ⚡ Fun fact: I thought I would be mathematician or painter when I grow up (still doing some artworks for fun now and then)
+- ⚡ When free time appears I do some artwork on different canvases :)
 
 🛠  Tech Stack
 - ⚙️   Windows
