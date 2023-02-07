@@ -23,10 +23,10 @@ I am a software developer, curious about crypto world
 
 🛠  Tech Stack
 - ⚙️   Windows
-- 🌐   HTML5, CSS, JavaScript, React, Redux, RestAPI, Java 
-- 🛢    DB2, Firebase
+- 🌐   HTML5, CSS, JavaScript, React, Redux, RestAPI, Java
+- 🛢    DB2, Firebase, MongoDB
 - ⚙️   SVN, Git, GitHub
-- 🔧   Visual Studio Code, Eclipse
+- 🔧   Visual Studio Code, Eclipse, Git Bash, dbVisualizer
  
 <br>
 <h5>📫 How to reach me:</h5>
