@@ -22,11 +22,10 @@ I am a software developer, curious about crypto world
 - ⚡ When free time appears I do some artwork on different canvases :)
 
 🛠  Tech Stack
-- ⚙️   Windows
-- 🌐   HTML5, CSS, JavaScript, React, Redux, RestAPI, Java
-- 🛢    DB2, Firebase, MongoDB
+- 🌐   HTML5, CSS, JavaScript, React, Redux, Next.js, RestAPI, Java
+- 🛢    DB2, Firebase, MongoDB, SQL
 - ⚙️   SVN, Git, GitHub
-- 🔧   Visual Studio Code, Eclipse, Git Bash, dbVisualizer
+- 🔧   Visual Studio Code, Eclipse, Git Bash, dbVisualizer, dbEaver
  
 <br>
 <h5>📫 How to reach me:</h5>
